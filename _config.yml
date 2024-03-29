@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Michael Appiah Dankwah
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+   I specialise in DevOps, Reliability Engineering, Automation, and related technologies such as K8s, Docker, Terraform and Jenkins
   <br><br>
-  Second description 
+  I love to keep applications, databases secure and running
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/michael-appiah-dankwah/">Get In Touch</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
